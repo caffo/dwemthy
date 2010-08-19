@@ -5,12 +5,12 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "dwemthy"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = "$$$ DWEMTHY_S ARRAY ^!^ A RUBY MINI_DUNGEON ^!^ ONLY 60 LINES OF CODE ^!^ DWEMTY IS WATCHING ^!^ A STALE BREATH IS ON YOUR NAPE, IS IT NOT ?? ^!^ DWEMTHY COMETH $$$"
+    gem.description = "DWEMTHY'S ARRAY is not a mind puzzle. It is a short 60 line role-playing game that is played with Ruby metaprogramming. The game comes from chapter six of Why's (Poignant) Guide to Ruby."
     gem.email = "caffeine@gmail.com"
     gem.homepage = "http://github.com/caffo/dwemthy"
     gem.authors = ["rodrigo franco (caffo)"]
-    gem.add_development_dependency "thoughtbot-shoulda", ">= 0"
+    # gem.add_development_dependency "thoughtbot-shoulda", ">= 0"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
   Jeweler::GemcutterTasks.new

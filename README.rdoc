@@ -1,17 +1,30 @@
 = dwemthy
 
-Description goes here.
+In this game, you are a rabbit who is going to die. A dragon is going to do it. Deep in Dwemthy's Array.
+
+Please, never ask who Dwemthy is. Obviously he is a mastermind and would never disclose his location or true identity. He has sired dynasties. He has set living ogres aflame. Horses everywhere smell him at all times. Most of all, he knows carnal pleasures. And to think that this...
+
+This is his Array.
+
+A scalding SEETHING LAVA infiltrates the cacauphonous ENGORGED MINESHAFTS deep within the ageless canopy of the DWEMTHY FOREST... chalky and nocturnal screams from the belly of the RAVENOUS WILD STORKUPINE... who eats wet goslings RIGHT AFTER they've had a few graham crackers and a midday nap... amidst starved hippos TECHNICALLY ORPHANED but truthfully sheltered by umbrellas owned jointly by car dealership conglomerates... beneath uncapped vials of mildly pulpy BLUE ELIXIR... which shall remain... heretofore... UNDISTURBED... DWEMTHY!!!
+
+Contrary to the ill-guided notions of certain introductory comics, DWEMTHY'S ARRAY is not a mind puzzle. It is a short 60 line role-playing game that is played with Ruby metaprogramming. The game comes from chapter six of Why's (Poignant) Guide to Ruby.
+
+To play, you must have Ruby (the beloved programming language) on your computer. If you don't, you must leave Dwemthy's Array immediately and never speak of it, except with your legal guardian to whom your life is entrusted.
+
+== To play
+
+* gem install dwemthy; dwemthy
+
 
 == Note on Patches/Pull Requests
  
 * Fork the project.
 * Make your feature addition or bug fix.
-* Add tests for it. This is important so I don't break it in a
-  future version unintentionally.
 * Commit, do not mess with rakefile, version, or history.
   (if you want to have your own version, that is fine but bump version in a commit by itself I can ignore when I pull)
 * Send me a pull request. Bonus points for topic branches.
 
 == Copyright
 
-Copyright (c) 2010 rodrigo franco (caffo). See LICENSE for details.
+See LICENSE for details.
