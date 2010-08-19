@@ -12,6 +12,8 @@ Contrary to the ill-guided notions of certain introductory comics, DWEMTHY'S ARR
 
 To play, you must have Ruby (the beloved programming language) on your computer. If you don't, you must leave Dwemthy's Array immediately and never speak of it, except with your legal guardian to whom your life is entrusted.
 
+More info: http://mislav.uniqpath.com/poignant-guide/dwemthy/
+
 == To play
 
 * gem install dwemthy; dwemthy
