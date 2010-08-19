@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "bin/dwemthy",
+     "dwemthy.gemspec",
      "lib/creature.rb",
      "lib/dwemthy.rb",
      "lib/foes.rb",
